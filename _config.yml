@@ -1,23 +1,25 @@
-# Site settings
-title: 雨落
-email: 330249949@qq.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# 站点信息
+title: 斜风细雨不须归
+email: 3302499@qq.com
+description: > # no one
+
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.github.com" # the base hostname & protocol for your site
+url: "http://blog.zhtua.com" # the base hostname & protocol for your site
 
-
+markdown: redcarpet  
+pygments: true
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
-filter: 'tag'
+filter: tag
 
+# avatar头像及Favicon
+avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # Social account
 # twitter:  username
 weibo: '3897518672'
-github: 'pokestan'
+github: pokestan
 # codepen:  username
 # dribbble: username
 

@@ -13,4 +13,4 @@
 
 
 
-  /jekyll/update/2015/03/09/welcome-to-jekyll.html
+  /jekyll/2015/03/09/welcome-to-jekyll.html
