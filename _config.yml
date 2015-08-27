@@ -3,6 +3,7 @@ title: 斜风细雨不须归
 email: 3302499@qq.com
 description: > # no one
 
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.zhtua.com" # the base hostname & protocol for your site
 
@@ -25,7 +26,7 @@ github: pokestan
 
 
 # Comment
-# disqus_shortname: discussion_shortname
+disqus_shortname: suyan-zh
 
 
 # Google Analytics
@@ -36,4 +37,6 @@ github: pokestan
 markdown: kramdown
 sass:
   style: compressed
+disqus:
+  shortname: suyan-zh
 
