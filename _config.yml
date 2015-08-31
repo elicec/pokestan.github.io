@@ -38,5 +38,5 @@ markdown: kramdown
 sass:
   style: compressed
 disqus:
-  shortname: suyan-zh
+  shortname: huazheng
 
